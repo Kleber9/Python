@@ -1,0 +1,21 @@
+Kleber,
+
+ 
+
+Verifiquei as FSC correspondentes aos chamados. Por favor testar na sequência abaixo, qualquer alteração vamos nos falando.
+
+ 
+
+156779 Flag indicando Sistema Externo no Cadastro de Tipo de Ocorrência FSC057
+
+157048 Alterar Relatório comprovante protocolo FSC087
+156998 Desenvolver Relatório de Acompanhamento de Canhoto Físico   FSC083
+
+ 
+
+150886 Cad Tracking - Regra para não permitir entrega atrasada – FSC003
+150917 Ocoren 3.1 - Tratar regra de entrega em atraso FSC003
+150919 Ocoren 5.1 - Tratar regra de entrega em atraso FSC003
+150938 API Mobile - Tratar regra de entrega em atraso FSC003
+152080 Liga Layout X Cliente - Novo Campo FSC049
+152082 Absorção Ocoren/doccob - Tratamento log e envio de arquivo FSC049
